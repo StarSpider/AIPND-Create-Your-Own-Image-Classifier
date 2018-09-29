@@ -1,0 +1,1 @@
+#To Run the predict.py file, insert this statement into the command line: python predict.py flowers/test/10/image_07090.jpg checkpoint.pth

@@ -1,2 +1,3 @@
-# AIPND-Create-Your-Own-Image-Classifier
-It is a project from Udacity under the school of AI. Here the basic python is used to train a system for detecting the image.
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.

@@ -1,0 +1,1 @@
+#To Run the train.py program, insert this into the command line: python train.py flowers --model densenet121
